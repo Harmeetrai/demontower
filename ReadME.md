@@ -1,3 +1,6 @@
+| :zap:        This project has been uploaded from SFU gitlab!   |
+|-----------------------------------------|
+
 Demon tower is a 2 dimensional computer game where the player character is a adventure who runs away from demon and avoid trap, collect the key with treasure and escape from tower.
 The main character can move up, down left, and right, treasure can give player a bonus point, and Key can help player go to next level. Player have to leave the level in certain times.
 There is some medkit on the map, which can heal Player by 1, if Player touch any enemy or trap, they will lose one Hp.
